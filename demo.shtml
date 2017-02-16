@@ -11,7 +11,7 @@
 <meta content="email=no" name="format-detection"/>
 <meta name="msapplication-tap-highlight" content="no">
 <link rel="stylesheet" href="demo.css">
-<script src="http://img2.cache.netease.com/f2e/lib/js/ne.js"></script>
+<script src="ne.js"></script>
 </head>
 <body>
 <div class="form">
