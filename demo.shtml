@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=750, user-scalable=no" />
+<title>demo</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="renderer" content="webkit">
+<meta content="telephone=no" name="format-detection"/>
+<meta content="email=no" name="format-detection"/>
+<meta name="msapplication-tap-highlight" content="no">
+<link rel="stylesheet" href="demo.css">
+<script src="http://img2.cache.netease.com/f2e/lib/js/ne.js"></script>
+</head>
+<body>
+<div class="form">
+	<form action="">
+		<div class="line">
+			<label for="name">姓名</label>
+			<input type="text" id="name">
+		</div>
+		<div class="line">
+			<label for="mail">姓名</label>
+			<input type="text" id="mail">
+		</div>
+		<div class="line">
+			<div class="checkbox" id="checkbox">
+				<div id="checkwrap" class="checkwrap"></div>
+				<div class="loading" id="loading"><span></span><span></span><span></span></div>
+				<div class="check" id="check"></div>
+			</div>
+			<div class="tip" id="tip"></div>
+			<div class="logo"></div>
+		</div>
+		<div class="submit">提 交</div>
+	</form>
+</div>
+<script src="demo.js"></script>
+</body>
+</html>
