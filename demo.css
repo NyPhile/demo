@@ -305,11 +305,11 @@ input {
   transform-origin: center top;
 }
 .submit {
-  height: 70px;
-  margin-top: 50px;
-  background: #00abc5;
+  height: 80px;
+  margin-top: 70px;
+  background: #673AB7;
   border-radius: 5px;
-  line-height: 70px;
+  line-height: 80px;
   text-align: center;
   color: #fff;
 }

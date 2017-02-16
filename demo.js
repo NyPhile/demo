@@ -27,7 +27,8 @@
 	});
 	NE(".submit").bind("click",function(){
 		if(isCheck){
-			alert("提交成功")
+			alert("提交成功");
+			window.location.reload();
 		}else{
 			alert("请点击验证")
 		}
